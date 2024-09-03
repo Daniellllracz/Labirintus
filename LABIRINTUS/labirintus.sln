@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labirintus", "labirintus.csproj", "{09FF9714-3876-42DE-8652-A36140B98213}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09FF9714-3876-42DE-8652-A36140B98213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09FF9714-3876-42DE-8652-A36140B98213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09FF9714-3876-42DE-8652-A36140B98213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09FF9714-3876-42DE-8652-A36140B98213}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D41EAE5-08EA-47C7-B51B-6A179A5F2C8D}
+	EndGlobalSection
+EndGlobal
